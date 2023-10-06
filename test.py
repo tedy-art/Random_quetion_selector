@@ -13,6 +13,8 @@ questions = [
     "PVM",
     "How python works",
     "what is bytecode",
+    "how is memory managed  in py",
+    "what is garbage collector in py",
     "what is list comprehension",
     "what is ternary/conditional operator",
     "memory allocation in py",
